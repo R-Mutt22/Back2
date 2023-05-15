@@ -1,0 +1,9 @@
+com\matiaszelarayan\miPorfolioApp\MiPorfolioAppApplication.class
+com\matiaszelarayan\miPorfolioApp\service\SFormacion.class
+com\matiaszelarayan\miPorfolioApp\model\Formacion.class
+com\matiaszelarayan\miPorfolioApp\repository\IRFormacion.class
+com\matiaszelarayan\miPorfolioApp\service\IFormacionService.class
+com\matiaszelarayan\miPorfolioApp\controller\PersonaController.class
+com\matiaszelarayan\miPorfolioApp\dto\DtoFormacion.class
+com\matiaszelarayan\miPorfolioApp\controller\FormacionController.class
+com\matiaszelarayan\miPorfolioApp\model\Mensaje.class
